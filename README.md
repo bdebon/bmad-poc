@@ -5,7 +5,7 @@ Ce document explique la structure des documents générés par la méthode B-MAD
 **Repo officiel :** https://github.com/bmad-code-org/BMAD-METHOD
 
 **Vidéo explicative (1h) :** https://www.youtube.com/watch?v=LorEJPrALcg
-*(Vidéo du créateur de BMAD - jouable en x2 si vous êtes pressés)*
+_(Vidéo du créateur de BMAD - jouable en x2 si vous êtes pressés)_
 
 ---
 
@@ -160,6 +160,7 @@ docs/stories/
 ```
 
 Chaque story contient :
+
 - **User Story** au format "As a... I want... So that..."
 - **Acceptance Criteria** numérotés
 - **Tasks/Subtasks** avec checkboxes
@@ -224,4 +225,4 @@ Chaque gate liste les critères à vérifier avant de considérer une story comm
 
 ---
 
-*Ce projet a été entièrement spécifié et développé en utilisant la méthode B-MAD avec Claude comme agent IA.*
+_Ce projet a été entièrement spécifié et développé en utilisant la méthode B-MAD avec Claude comme agent IA._
